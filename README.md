@@ -3,7 +3,7 @@
 
 ![](.screens/preview.png)
 
-## Want to give it a try? Click [HERE]() to start drawing some IRC art!
+## Want to give it a try? Click [HERE](https://ircart.github.io/asciiblaster/) to start drawing some IRC art!
 
 ### Information
 This serves as a mirror of [https://asdf.us/asciiblaster/](https://asdf.us/asciiblaster/) for anyone who would like to contribute to project or fork the repository. The original creator of this does not have a Github account as far as I know.
